@@ -33,8 +33,6 @@ export default function Home() {
               </p>
             </div>
             <div className="flex flex-row flex-wrap justify-around gap-4">
-              <img src="/html.png" alt="html" className="space" />
-              <img src="css.png" alt="css" className="space" />
               <img src="javascript.png" alt="JavaScript" className="space" />
               <img src="react.png" alt="React" className="space" />
               <img src="nodejs.png" alt="Nodejs" className="space" />
